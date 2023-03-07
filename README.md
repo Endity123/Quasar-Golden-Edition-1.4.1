@@ -21,6 +21,7 @@ Latest version: v1.4.1.0
 – Clear Clipboard
 – Set Clipboard
 – Delete Event Log (Eventviewer)
+-Quasar Rat Golden Edition V 1.4.1.0
 – Delete System Restore Points
 – TaskManager Disable/Enable
 – CMD Disable/Enable
@@ -31,11 +32,11 @@ Latest version: v1.4.1.0
 – Compression // Output will be smaller.
 – AntiVM //Won’t run in a Virtual Machine
 – Anti Sandboxie //Won’t run in a sandboxie
+-Quasar Rat Golden Edition V 1.4.1.0
 – Anti-Debug
 – USB Spread
 – Choose USB Spread Name
 – Obfuscation of the output.
-
 v. 1.4.0.0
 – Anti-Debug
 – Delete Event Log (Event Viewer)
